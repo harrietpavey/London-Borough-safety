@@ -1,0 +1,46 @@
+
+body {
+    background-color: #F0F8FF;
+	border: 1px;
+}
+
+h1 {
+    color: purple;
+font-family: arial;
+font-size: 200%;
+	text-align: center;
+}
+
+h2 {
+	color: black;
+	font-family: arial;
+	font-size: 150%;
+	text-align: left;
+}
+
+p {
+    color: black;
+font-family: arial;
+font-size: 100%;
+border: 1px solid #F0F8FF;
+padding: 15px;
+margin: 10px;
+}
+
+
+table {	
+	color: black;
+	font-family: arial;
+	overflow-y: scroll;
+	font-size: 200%;
+	height: 200px;
+	color: purple;
+	width: 100px;
+}
+
+
+img {
+    border-radius: 8px;
+	height: auto;
+	border: 2px solid purple;
+}
